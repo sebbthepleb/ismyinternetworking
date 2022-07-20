@@ -1,0 +1,19 @@
+{
+  "name": "ismyinternetworking",
+  "version": "1.0.0",
+  "description": "Check if your internet is working (among other things).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebbthepleb/ismyinternetworking.git"
+  },
+  "author": "sebthepleb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebbthepleb/ismyinternetworking/issues"
+  },
+  "homepage": "https://github.com/sebbthepleb/ismyinternetworking#readme"
+}
